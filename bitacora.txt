@@ -1,0 +1,2 @@
+2024/11/05: admin – Bievenido ingreso exitoso
+2024/11/05: admin – Adios, salida  del sistema
